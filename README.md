@@ -126,9 +126,6 @@ O documento aborda...
 
 ---
 
-Para dúvidas ou colaborações, abra uma [issue](https://github.com/MeirelesAndre/RAG-Retrieval-Augmented-Generation-Aprimorando-LLMs-com-Dados-Externos/issues) ou envie um PR.
-
----
 
 Feito com 💡 por [@MeirelesAndre](https://github.com/MeirelesAndre)
 
